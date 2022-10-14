@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class frmAna : Form
     {
 
         private char _islem;
         private bool _ekrantemizlenecek;
         private int _ilkSayi;
-        public Form1()
+        public frmAna()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form1
+    partial class frmAna
     {
         /// <summary>
         /// Required designer variable.
@@ -253,7 +253,7 @@
             this.buttonsil.UseVisualStyleBackColor = false;
             this.buttonsil.Click += new System.EventHandler(this.buttonsil_Click);
             // 
-            // Form1
+            // frmAna
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -280,7 +280,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(5);
             this.MaximizeBox = false;
-            this.Name = "Form1";
+            this.Name = "frmAna";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Hesap Makinesi";
             this.Load += new System.EventHandler(this.Form1_Load);
